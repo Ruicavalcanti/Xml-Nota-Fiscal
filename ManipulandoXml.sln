@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecutarXml", "..\Teste Xml\ExecutarXml.csproj", "{07F0D22E-6629-4BE5-A974-07FB0F669B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml", "..\CriandoEstruturaXml\Xml.csproj", "{A18780A9-C171-4574-8DE1-CCB31E1E07AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F0D22E-6629-4BE5-A974-07FB0F669B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F0D22E-6629-4BE5-A974-07FB0F669B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F0D22E-6629-4BE5-A974-07FB0F669B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F0D22E-6629-4BE5-A974-07FB0F669B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18780A9-C171-4574-8DE1-CCB31E1E07AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18780A9-C171-4574-8DE1-CCB31E1E07AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18780A9-C171-4574-8DE1-CCB31E1E07AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18780A9-C171-4574-8DE1-CCB31E1E07AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B19A92-AB71-4DCD-B4C0-42B0CA8E2602}
+	EndGlobalSection
+EndGlobal

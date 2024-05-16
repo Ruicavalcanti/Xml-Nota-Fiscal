@@ -1,0 +1,6 @@
+C:\Projetos\Desenvolvimento\ManipulandoXml\bin\Debug\ManipulandoXml.dll
+C:\Projetos\Desenvolvimento\ManipulandoXml\bin\Debug\ManipulandoXml.pdb
+C:\Projetos\Desenvolvimento\ManipulandoXml\obj\Debug\ManipulandoXml.csprojAssemblyReference.cache
+C:\Projetos\Desenvolvimento\ManipulandoXml\obj\Debug\ManipulandoXml.csproj.CoreCompileInputs.cache
+C:\Projetos\Desenvolvimento\ManipulandoXml\obj\Debug\ManipulandoXml.dll
+C:\Projetos\Desenvolvimento\ManipulandoXml\obj\Debug\ManipulandoXml.pdb
